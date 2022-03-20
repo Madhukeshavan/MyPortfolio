@@ -1,2 +1,3 @@
 # MyPortfolio
- A portfolio website for displaying projects, blogs and ...
+
+ A portfolio website for displaying profile, projects and blogs.
